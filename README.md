@@ -68,13 +68,7 @@ Want to try GeminiChat on your own machine? Follow these easy steps:
 
    This will fire up the development server! 🎉  Open your web browser and go to the address it shows you (usually `http://localhost:3000`).  GeminiChat should be running! 🥳
 
-## 🚀 Vercel Deployment (Put it online easily!)
 
-Want to share GeminiChat with the world?  Vercel makes it super easy!  Just click this button:
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/thelapyae/GeminiChat&env=GEMINI_API_KEY)
-
-Clicking this button will take you to Vercel.  Connect your GitHub account, and Vercel will guide you through deploying GeminiChat.  When it asks, make sure to enter your `GEMINI_API_KEY` during the deployment process. 🔑 Vercel will handle all the complicated stuff for you.  Magic! ✨
 
 ---
 
